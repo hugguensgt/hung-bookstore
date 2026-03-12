@@ -63,5 +63,3 @@
 <img width="477" height="299" alt="Screenshot 2026-03-13 021859" src="https://github.com/user-attachments/assets/fb87655f-93ae-4920-b843-15a966f5aacd" />
 
 ---
-
-*(※詳細コードはこちら [hung-bookstoreフォルダへ])*
