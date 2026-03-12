@@ -1,4 +1,4 @@
-### [PHP/MySQL (オンライン書店システム - hung-bookstore)](./backend/hung-bookstore)
+### [PHP/MySQL (オンライン書店システム - hung-bookstore)]
 
 **概要:** PHPとMySQLを用いた書籍ECサイトです。ユーザーの購入から管理者の在庫・受注管理まで一連の流れを網羅しています。
 
@@ -64,4 +64,4 @@
 
 ---
 
-*(※詳細コードはこちら [hung-bookstoreフォルダへ](./backend/hung-bookstore))*
+*(※詳細コードはこちら [hung-bookstoreフォルダへ])*
